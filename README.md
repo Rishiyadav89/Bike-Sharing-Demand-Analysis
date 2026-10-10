@@ -20,7 +20,7 @@ Bike Share Demand Analysis Using Excel, Power Query, Excel Formulas, Pivot Table
 - Forecasting and Anomaly Detection
 
 - ## Dashboard Preview
-![Bike Sharing Dashboard]"C:\Users\PC\OneDrive\Desktop\Internship\1st project\Dashboard photo.png"
+[Bike Sharing Dashboard]"C:\Users\PC\OneDrive\Desktop\Internship\1st project\Dashboard photo.png"
 
 ## Project Files
 - Final Excel workbook
